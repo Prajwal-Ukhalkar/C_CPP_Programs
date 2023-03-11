@@ -1,0 +1,8 @@
+﻿  doublyLinkedList.c
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Data Structures\Data Structures\doublyLinkedList.c(42,39): error C2082: redefinition of formal parameter 'head2'
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Data Structures\Data Structures\doublyLinkedList.c(83,13): error C2198: 'createLinkedList': too few arguments for call
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Data Structures\Data Structures\doublyLinkedList.c(147,10): warning C4013: 'insertAtPosition' undefined; assuming extern returning int
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Data Structures\Data Structures\doublyLinkedList.c(149,10): warning C4013: 'deleteAtFirst' undefined; assuming extern returning int
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Data Structures\Data Structures\doublyLinkedList.c(151,10): warning C4013: 'deleteAtLast' undefined; assuming extern returning int
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Data Structures\Data Structures\doublyLinkedList.c(153,10): warning C4013: 'deleteUsing2pointer' undefined; assuming extern returning int
+C:\Users\Asus\Documents\Visual Studio 2022\Projects\Data Structures\Data Structures\doublyLinkedList.c(155,10): warning C4013: 'reverse' undefined; assuming extern returning int
